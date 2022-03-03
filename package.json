@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-openinstall",
+  "name": "@mufan/cordova-plugin-openinstall",
   "version": "2.1.0",
   "cordova": {
     "id": "cordova-plugin-openinstall",
@@ -12,11 +12,11 @@
     "一键拉起",
     "免填邀请码",
     "广告效果监测",
-	"渠道统计"
+    "渠道统计"
   ],
-  "repository" : { 
-    "type" : "git",
-    "url" : "https://github.com/OpenInstall/cordova-plugin-openinstall.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenInstall/cordova-plugin-openinstall.git"
   },
   "author": "openinstall",
   "license": "MIT",
