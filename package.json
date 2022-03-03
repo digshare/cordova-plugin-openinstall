@@ -1,5 +1,5 @@
 {
-  "name": "@mufan/cordova-plugin-openinstall",
+  "name": "@enverse/cordova-plugin-openinstall",
   "version": "2.1.0",
   "cordova": {
     "id": "cordova-plugin-openinstall",
